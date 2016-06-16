@@ -1,2 +1,2 @@
 # Pixxit
-A pixel art editor
+A pixel art editor I created for a Uni project
